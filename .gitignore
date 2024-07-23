@@ -1,0 +1,39 @@
+x64
+Debug
+Crystal.dir
+vcpkg
+
+CMakeCache.txt
+CMakeScripts
+cmake_install.cmake
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+# Add this line
+out/
+
+Crystal_autogen
+.qt
+CMakeFiles
+
+*.vcxproj.user
+
+
+# MSVC cmake project files
+ALL_BUILD.vcxproj
+ZERO_CHECK.vcxproj
+ALL_BUILD.vcxproj.filters
+ZERO_CHECK.vcxproj.filters
